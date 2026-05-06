@@ -1,3 +1,3 @@
 # Hello, world!
 
-this is some added text
+PRs accepted, but no merging from the gui, an only fast-forward merges are allowed.
